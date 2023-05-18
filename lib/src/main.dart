@@ -16,6 +16,8 @@ enum ChartAdjust {
   fullRange
 }
 
+///hey HOW are you
+
 /// StatefulWidget that holds Chart's State (index of
 /// current position and candles width).
 class Candlesticks extends StatefulWidget {
