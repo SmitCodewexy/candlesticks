@@ -2,6 +2,8 @@ import 'package:candlesticks/candlesticks.dart';
 import 'dart:math' as math;
 import 'dart:ui';
 
+
+///hey
 class BollingerBandsIndicator extends Indicator {
   BollingerBandsIndicator({
     required int length,
