@@ -1,6 +1,8 @@
 import 'dart:ui';
 import 'package:candlesticks/candlesticks.dart';
 
+
+///average
 class MovingAverageIndicator extends Indicator {
   MovingAverageIndicator({
     required int length,
