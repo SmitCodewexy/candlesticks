@@ -1,3 +1,6 @@
+////thiss is efdit from smit bhau
+
+
 import 'dart:math';
 import 'package:candlesticks/candlesticks.dart';
 import 'package:candlesticks/src/models/main_window_indicator.dart';
